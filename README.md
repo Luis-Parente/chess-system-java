@@ -24,7 +24,6 @@ This project was developed as part of an introductory course on Java and object-
 
 ```bash
 git clone https://github.com/your-username/chess-system-java.git
-cd chess-system-java
 ```
 ### 2. Compile and run
 You can compile and run the project via terminal or your favorite IDE. Follow the steps below in the terminal:
@@ -32,7 +31,7 @@ You can compile and run the project via terminal or your favorite IDE. Follow th
 #### Option 1: Using Windows CMD
 - Open the CMD and navigate to the project directory:
 ```bash
-cd "\chess-system-java"
+cd chess-system-java
 ```
 - Go to the src folder where the .java files are located:
 ```bash
@@ -50,3 +49,6 @@ java application.Program
 - Open the project folder in IntelliJ IDEA or Eclipse.
 - Locate the Program.java file inside the application package.
 - Run the main method.
+
+## ♟️ Chess table 
+![Chess Board](https://github.com/Luis-Parente/assets/blob/main/chess-system/table.png)
