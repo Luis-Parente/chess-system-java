@@ -23,7 +23,7 @@ This project was developed as part of an introductory course on Java and object-
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/chess-system-java.git
+git clone https://github.com/Luis-Parente/chess-system-java
 ```
 ### 2. Compile and run
 You can compile and run the project via terminal or your favorite IDE. Follow the steps below in the terminal:
